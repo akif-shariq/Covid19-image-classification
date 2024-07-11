@@ -24,7 +24,7 @@ Classification Report: A classification report detailing precision, recall, and 
 Confusion Matrix: The confusion matrix, showing the distribution of true positive, false positive, true negative, and false negative predictions, is computed and displayed using scikit-learn's confusion_matrix function.
 
 # Dependencies
-TensorFlow/Keras
-Matplotlib
-NumPy
-scikit-learn (for metrics evaluation)
+1. TensorFlow/Keras
+2. Matplotlib
+3. NumPy
+4. scikit-learn (for metrics evaluation)
